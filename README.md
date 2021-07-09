@@ -30,7 +30,7 @@ In this project we have created 3 `ProfitSplitter` contracts. These contracts wi
 
 ### Level One: The `AssociateProfitSplitter` Contract
 
-![Contract](Images/AssociateProfitSplitter/Contract.png)
+![Contract](Images/AssociateProfitSplitter/0.Contract.png)
 
 #### Test the contract
 
@@ -83,7 +83,7 @@ In this contract, rather than splitting the profits between Associate-level empl
 
 ### Confirm Transaction
 
-![Confirm Transaction](Imahes/TieredProfitSplitter/3.Confirm.png)
+![Confirm Transaction](Images/TieredProfitSplitter/3.Confirm.png)
 
 
 ### Check Balances after transaction 
